@@ -2,7 +2,11 @@
 
 This repository contains a machine learning model that stacks multiple of the most used (ex. logistic regression, KNN, decision tree, etc), to create a 95% accurate Parkinson's prediction model based off of several metrics. In the data set, many more individuals that had Parkinson's were tested, thus SMOTE was used to balance the dataset. 
 
-![image](https://github.com/user-attachments/assets/f9fec87a-b01e-4167-9741-e555d710d464)
+![image](https://github.com/user-attachments/assets/f9fec87a-b01e-4167-9741-e555d710d464) \
+Smote Impact \
+\
+![image](https://github.com/user-attachments/assets/d8510df1-712f-4c35-bb84-c70ebfdbcaaf) \
+Stacked Algorithm Classification Report
 
 \
 The predictors are mostly centered around voice measures. The metrics include:
